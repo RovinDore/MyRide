@@ -2,6 +2,7 @@
 
 # MyRide
 Visit <a href="http://myride869.web.app/" target="_blank" />MyRide869</a>.
+**Only available on mobile devices**
 All in one transportation web app tailored to the island of St. Kitts and Nevis.
 
 MyRide has four (4) sides which are:
