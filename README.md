@@ -1,14 +1,14 @@
 # MyRide
 All in one transportation web app tailored to the island of St. Kitts and Nevis
 
-Login Screen
+<h3>Login Screen</h3>
 <img src="login.png" />
 
-Public Buses Info Screen
-<img src="publicbus.png" />
+<h3>Public Buses Info Screen</h3>
+<img src="publicbus.png" width="200" />
 
-Rentals Screen
-<img src="rentals.png" />
+<h3>Rentals Screen</h3>
+<img src="rentals.png" width="200" />
 
-Ride hail Screen
-<img src="ridehail.png" />
+<h3>Ride hail Screen</h3>
+<img src="ridehail.png" width="200" />
