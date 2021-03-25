@@ -91,6 +91,7 @@ MyRide has four (4) sides which are:
   <div class="screen">
     <h3>Bus Driver dashboard</h3>
     <img src="driver.png" width="200" />
+   <img src="driver2.png" width="200" />
   </div>
   
    <div class="screen">
